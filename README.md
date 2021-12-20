@@ -6,6 +6,8 @@ A full collection of requests for use with Neo N3 RPC endpoints. The collection 
 
 Three environments are provided: one for MainNet, one for TestNet, and one set up following the [Neo Express](https://github.com/neo-project/neo-express) defaults. 
 
+![neo-insomnia](https://github.com/EdgeDLT/neo-insomnia/blob/main/neo-insomnia.png)
+
 The collection is divided into 5 categories by request type:
 
 * Blockchain
