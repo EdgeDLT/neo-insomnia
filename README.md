@@ -20,7 +20,7 @@ The structure follows the official API reference, except `listplugins` has been 
 
 ## 1. Download Insomnia
 Get the desktop client for your OS.
-> http://insomnia.rest/
+> https://insomnia.rest/download
 
 ## 2. Import the collection
 Import the collection JSON via **Preferences** > **Data**
