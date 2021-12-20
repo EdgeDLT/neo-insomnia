@@ -23,7 +23,7 @@ Get the desktop client for your OS.
 > https://insomnia.rest/download
 
 ## 2. Import the collection
-Import the collection JSON via **Preferences** > **Data**
+Save the `Insomnia-neo-n3-api.json` file and import it via **Preferences** > **Data**
 > https://docs.insomnia.rest/insomnia/import-export-data
 
 ## 3. (Optional) Change endpoints
