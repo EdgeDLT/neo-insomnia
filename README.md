@@ -25,11 +25,11 @@ Get the desktop client for your OS.
 > https://insomnia.rest/download
 
 ## 2. Import the collection
-Save the `Insomnia-neo-n3-api.json` file and import it via **Preferences** > **Data**
+Save the `Insomnia-neo-n3-api.json` file and import it via **Application** > **Preferences** > **Data**
 > https://docs.insomnia.rest/insomnia/import-export-data
 
 ## 3. (Optional) Change endpoints
-Use the `Manage Environments` menu if you want to change the nodes used across each environment. You can open the menu quickly using **CTRL+E**. You can supply your own endpoint, or select a public one. Several public nodes for the N3 MainNet and TestNet can be found on Dora.
+Use the `Manage Environments` menu if you want to change the nodes used across each environment. The menu can be found in the active environment tab (MainNet/TestNet/Express), or you can open the menu quickly using **CTRL+E**. You can supply your own endpoint, or select a public one. Several public nodes for the N3 MainNet and TestNet can be found on Dora.
 > https://dora.coz.io/monitor
 
 ## 4. Send requests
